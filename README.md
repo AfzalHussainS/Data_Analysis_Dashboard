@@ -65,6 +65,10 @@ Used bar charts, line graphs, and KPI cards for effective data representation.
 
 📌 Seasonal Trends: Revenue spiked notably in mid-2014, suggesting seasonal factors or successful campaigns.
 
+## Project Demo
+
+<a href="https://github.com/Afzal2003/Data_Analysis_Dashboard/blob/main/Sales%20Analysis%20Power%20BI%20Dashboard%20Image.jpeg">View Dashboard</a>
+
 ## Technologies Used
 
 Power BI (for data visualization & analysis)
