@@ -1,2 +1,4 @@
-# Data_Analysis_Dashboard
-Sales Analysis Power BI Dashboard is a beginner-friendly project that visualizes sales performance, tracking revenue, profit, product trends, discounts, and customer segments. It highlights 167.59% revenue growth, top-performing products, discount impact, and geographical sales distribution for better business insights.
+# Sales Analysis Power BI Dashboard
+
+##Overview
+This is a beginner-friendly Power BI project that analyzes sales data to provide insights into revenue, profit, product performance, and customer segments. The dashboard visualizes key business metrics to help decision-makers track sales trends and optimize business strategies.
