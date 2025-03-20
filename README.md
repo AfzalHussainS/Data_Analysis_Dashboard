@@ -69,6 +69,10 @@ Used bar charts, line graphs, and KPI cards for effective data representation.
 
 <a href="https://github.com/Afzal2003/Data_Analysis_Dashboard/blob/main/Sales%20Analysis%20Power%20BI%20Dashboard%20Image.jpeg">View Dashboard</a>
 
+## Dashboard
+
+![Sales Analysis Power BI Dashboard Image](https://github.com/user-attachments/assets/67aa392a-48f0-4748-9bf2-89b51394d1f4)
+
 ## Technologies Used
 
 Power BI (for data visualization & analysis)
