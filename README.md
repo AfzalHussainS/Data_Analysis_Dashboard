@@ -67,7 +67,8 @@ Used bar charts, line graphs, and KPI cards for effective data representation.
 
 ## Project Demo
 
-[https://github.com/AfzalHussainS/Data_Analysis_Dashboard/blob/main/Sales%20Analysis%20Power%20BI%20dashboard.pbit](https://github.com/AfzalHussainS/Data_Analysis_Dashboard/blob/main/Sales%20Analysis%20Power%20BI%20dashboard.pbit)
+<a href="https://github.com/AfzalHussainS/Data_Analysis_Dashboard/blob/main/Sales%20Analysis%20Power%20BI%20dashboard.pbit">View Dashboard</a>
+
 
 ## Dashboard
 
